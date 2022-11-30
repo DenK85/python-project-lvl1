@@ -1,16 +1,14 @@
 import prompt
-from brain_games.games.even_game import DESCRIPTION
-from brain_games.games.even_game import get_data
 
 
-def logic():
+def logic(game):
     print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
     print(f'Hello, {name}!')
-    print(DESCRIPTION)
+    print(game.DESCRIPTION)
 
     for round in range(1, 4):
-        question, correct_answer = get_data()
+        question, correct_answer = game.get_data()
         print(f'Question: {question}')
         answer = prompt.string('Your answer: ')
 
