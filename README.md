@@ -7,6 +7,10 @@
 
 [![asciicast](https://asciinema.org/a/1voSu08sHZg6I7pjWKsePZsSq.svg)](https://asciinema.org/a/1voSu08sHZg6I7pjWKsePZsSq)
 
-### Came 2: Calculator
+### Game 2: Calculator
 
 [![asciicast](https://asciinema.org/a/XkmiF8M5hxR2CHklGQMOdQm54.svg)](https://asciinema.org/a/XkmiF8M5hxR2CHklGQMOdQm54)
+
+### Game 3: Greatest Common Divisor
+
+[![asciicast](https://asciinema.org/a/GuJXtLDNgVWJhfsLAZxOJ02GT.svg)](https://asciinema.org/a/GuJXtLDNgVWJhfsLAZxOJ02GT)
