@@ -18,3 +18,7 @@
 ### Game 4: Progression
 
 [![asciicast](https://asciinema.org/a/mXU9m2P8b1sTurJy6ANGgiyBi.svg)](https://asciinema.org/a/mXU9m2P8b1sTurJy6ANGgiyBi)
+
+### Game 5: Is it a prime number?
+
+[![asciicast](https://asciinema.org/a/UN4FsrRLqmEwyaBd46GZGK7qC.svg)](https://asciinema.org/a/UN4FsrRLqmEwyaBd46GZGK7qC)
