@@ -1,7 +1,7 @@
 from random import randint
 
 
-DESCRIPTION = 'Answer "yes" if number is even, otherwise answer "no".'
+DESCRIPTION = 'Answer "yes" if the number is even, otherwise answer "no".'
 LOWER_BOUND = 1
 UPPER_BOUND = 100
 
