@@ -1,24 +1,23 @@
-### Hexlet tests and linter status:
+# Brain Games: a collection of 5 math mini-games
 
+### Hexlet tests and linter status:
 [![Actions Status](https://github.com/DenK85/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/DenK85/python-project-lvl1/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/f0b3198530c47813fe95/maintainability)](https://codeclimate.com/github/DenK85/python-project-lvl1/maintainability)
 
-### Game 1: Is the number even?
+### Instal:
+`python3 -m pip install --user git+https://github.com/DenK85/python-project-lvl1.git`
 
-[![asciicast](https://asciinema.org/a/1voSu08sHZg6I7pjWKsePZsSq.svg)](https://asciinema.org/a/1voSu08sHZg6I7pjWKsePZsSq)
+### Game 1: Is the number even?
+[![asciicast](https://asciinema.org/a/543302.svg)](https://asciinema.org/a/543302)
 
 ### Game 2: Calculator
-
-[![asciicast](https://asciinema.org/a/XkmiF8M5hxR2CHklGQMOdQm54.svg)](https://asciinema.org/a/XkmiF8M5hxR2CHklGQMOdQm54)
+[![asciicast](https://asciinema.org/a/543310.svg)](https://asciinema.org/a/543310)
 
 ### Game 3: Greatest Common Divisor
-
-[![asciicast](https://asciinema.org/a/GuJXtLDNgVWJhfsLAZxOJ02GT.svg)](https://asciinema.org/a/GuJXtLDNgVWJhfsLAZxOJ02GT)
+[![asciicast](https://asciinema.org/a/543304.svg)](https://asciinema.org/a/543304)
 
 ### Game 4: Progression
-
-[![asciicast](https://asciinema.org/a/mXU9m2P8b1sTurJy6ANGgiyBi.svg)](https://asciinema.org/a/mXU9m2P8b1sTurJy6ANGgiyBi)
+[![asciicast](https://asciinema.org/a/543316.svg)](https://asciinema.org/a/543316)
 
 ### Game 5: Is it a prime number?
-
-[![asciicast](https://asciinema.org/a/UN4FsrRLqmEwyaBd46GZGK7qC.svg)](https://asciinema.org/a/UN4FsrRLqmEwyaBd46GZGK7qC)
+[![asciicast](https://asciinema.org/a/543318.svg)](https://asciinema.org/a/543318)
