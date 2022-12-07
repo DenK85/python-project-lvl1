@@ -9,7 +9,6 @@ LOWER_LENGHT = 5
 UPPER_LENGHT = 12
 
 
-
 def get_data():
     start = randint(LOWER_BOUND, UPPER_BOUND)
     step = randint(LOWER_BOUND, STEP_UPPER)
@@ -20,7 +19,6 @@ def get_data():
     progression[correct_answer_index] = '..'
     question = ' '.join(map(str, progression))
     return question, correct_answer
-    
 
 
 def get_progression(start, step, lenght):
@@ -29,4 +27,3 @@ def get_progression(start, step, lenght):
     for num in range(start, end, step):
         progression_list.append(num)
     return progression_list
-    
