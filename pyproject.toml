@@ -1,10 +1,16 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
+description = "Brain Games: a collection of 5 math mini-games"
 authors = ["Denis Korepov <dk777-07@mail.ru>"]
+repository = "https://github.com/DenK85/python-project-lvl1.git"
 readme = "README.md"
 packages = [{include = "brain_games"}]
+classifiers = [
+    "License :: Free for non-commercial use",
+    "Natural Language :: English",
+    "Programming Language :: Python :: 3.8"
+]
 
 [tool.poetry.dependencies]
 python = "^3.8.1"
