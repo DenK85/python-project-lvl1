@@ -1,7 +1,7 @@
 from random import randint
 
 
-DESCRIPTION = 'Answer "yes" if number is prime. Otherwise answer "no".'
+DESCRIPTION = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 LOWER_BOUND = 1
 UPPER_BOUND = 50
 
